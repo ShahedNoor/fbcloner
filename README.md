@@ -22,7 +22,7 @@ $ pkg install git
 <br/>
 $ pip2 install requests mechanize
 <br/>
-$ git clone https://github.com/ShahedNoor/fbhack-int
+$ git clone https://github.com/ShahedNoor/fbcloner
 <br/>
 $ ls
 <br/>
