@@ -110,7 +110,8 @@ jalan("\033[1;96m  ____) || |   | |     \ \ | |   | |______  | |__  / ")
 jalan("\033[1;97m |_____/ |_|   |_|      \ \|_|   |_|______| |_|___/  ")
 jalan(" ------------------------------")
  
-jalan("\033[1;91m Do everything on your own risk Official Coder Shahed Noor.")	
+jalan("\033[1;91m Do everything on your own risk
+ Official Coder Shahed Noor.")	
 jalan("\033[1;93m I'm not responsible for any illegal activities.")
 jalan("                                          ---\033[1;92m𝕊ℍ𝔸ℍ𝔼𝔻")	
 
